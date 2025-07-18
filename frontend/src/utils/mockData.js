@@ -11,7 +11,7 @@ export const mockData = {
     description: "I'm a passionate system administrator and engineer with a strong interest in homelabbing, information security, and network engineering. I enjoy deploying enterprise applications to understand the technological needs of organizations. My expertise includes servers, hypervisors, application deployment, and networking.",
     technologies: ["Palo Alto", "Nutanix", "VMware", "Unifi", "Grafana", "Zabbix", "SentinelOne", "Datadog", "JumpCloud"],
     stats: [
-      { label: "Years Experience", value: "5+" },
+      { label: "Years Experience", value: "3" },
       { label: "Projects Completed", value: "50+" },
       { label: "Certifications", value: "6" },
       { label: "Technologies", value: "25+" }
